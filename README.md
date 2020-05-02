@@ -1,2 +1,2 @@
 # git-learn
-This repository created for learning purpose.
+This repository created for learning purpose of begginer.
